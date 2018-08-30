@@ -1,0 +1,23 @@
+{
+  "name": "patch-policy-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-karma": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyk-fixtures/patch-policy-verification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snyk-fixtures/patch-policy-verification/issues"
+  },
+  "homepage": "https://github.com/snyk-fixtures/patch-policy-verification#readme"
+}
