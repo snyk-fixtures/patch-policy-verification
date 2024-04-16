@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "grunt-contrib-imagemin": "^2.0.1",
-    "grunt-karma": "^2.0.0",
+    "grunt-karma": "^3.0.0",
     "snyk": "^1.94.0"
   },
   "repository": {
